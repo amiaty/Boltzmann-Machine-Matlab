@@ -1,4 +1,4 @@
-# Boltzmann-Machine
+# Boltzmann Machine
 * The code is an implementation within the MATLAB of the Standard Boltzmann Machine model.
 * The Implementation is based on Ackley, David H., Geoffrey E. Hinton, and Terrence J. Sejnowski 's paper ***A Learning Algorithm for Boltzmann Machines, Cognitive Science 9.1 (1985).***
 
