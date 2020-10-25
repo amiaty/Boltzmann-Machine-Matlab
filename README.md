@@ -19,7 +19,7 @@
 
 ## Note 
 
-The full model and code logic existed in class file [BoltzmannMachine.m](./BoltzmannMachine.m)
+The full model and code logic existed in the single class file [BoltzmannMachine.m](./BoltzmannMachine.m)
 
 ## Authors
 
