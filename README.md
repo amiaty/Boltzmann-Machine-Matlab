@@ -1,17 +1,23 @@
-# Boltzmann Machine
+# Boltzmann Machine (BM)
 * The code is an implementation within the MATLAB of the Standard Boltzmann Machine model.
 * The Implementation is based on Ackley, David H., Geoffrey E. Hinton, and Terrence J. Sejnowski 's paper ***A Learning Algorithm for Boltzmann Machines, Cognitive Science 9.1 (1985).***
+
+
+# Summery
+[Boltzmann Machines](https://en.wikipedia.org/wiki/Boltzmann_machine) are very similar to [Hopfield Networks (HNs)](https://en.wikipedia.org/wiki/Hopfield_network) where some units are marked as input and others consider as hidden units. Input units become output as soon as each hidden unit update its state (during training, a Boltzmann Machine updates its cells one by one (not in parallel) in a random order (same as Hopfield Networks)).
+
+![Boltzmann Machine (BM)](https://upload.wikimedia.org/wikipedia/commons/7/7a/Boltzmannexamplev1.png)
 
 ## Getting Started
 
 ### Dependencies
 
-* Matlab 2012+
+* MATLAB (Almost any versions)
 
 ### Installing
 
 * Download repository and extract it.
-* Open folder in matlab. (No needs for aditional files or data)
+* Open folder in MATLAB. (No needs for additional files or data)
 
 ### Executing program
 
